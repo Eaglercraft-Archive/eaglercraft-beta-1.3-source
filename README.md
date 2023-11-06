@@ -1,4 +1,4 @@
-# Eaglercraft Beta Singleplayer
+# Eaglercraft Beta Singleplayer 
 
 **A version of Eaglercraft with both singleplayer and multiplayer. Based on Minecraft Beta 1.3, you can play singleplayer and multiplayer in any web browser and your worlds will be saved to your browser's local storage. Works on all chromebooks, you can export and import your worlds to make backups or move worlds to a different computer.**
 
